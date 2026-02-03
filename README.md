@@ -31,18 +31,18 @@ git config --global user.name "Seu Nome"
 git config --global user.email "seuemail@exemplo.com"
 
 Comandos básicos
-git init                # Inicializa um novo repositório
-git status              # Mostra o estado atual
-git add arquivo.txt     # Adiciona arquivo ao stage
-git commit -m "mensagem" # Cria um commit
+- **git init**:                # Inicializa um novo repositório
+- **git status**:              # Mostra o estado atual
+- **git add arquivo.txt**:     # Adiciona arquivo ao stage
+- **git commit -m "mensagem"**: # Cria um commit
 
 Branches
-git branch nome-branch   # Cria uma nova branch
-git checkout nome-branch # Troca para a branch
-git merge nome-branch    # Faz merge da branch
+- **git branch nome-branch**:   # Cria uma nova branch
+- **git checkout nome-branch**: # Troca para a branch
+- **git merge nome-branch**:    # Faz merge da branch
 
 Remotes
-git remote add origin https://github.com/usuario/repositorio.git
-git push -u origin main
-git pull origin main
+- **git remote add origin https://github.com/usuario/repositorio.git**:
+- **git push -u origin main**:
+- **git pull origin main**:
 
