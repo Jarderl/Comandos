@@ -27,8 +27,8 @@ Para instalar o Git:
   sudo apt-get install git
   
 Configuração inicial
-git config --global user.name "Seu Nome"
-git config --global user.email "seuemail@exemplo.com"
+- **git config --global user.name "Seu Nome"**:
+- **git config --global user.email "seuemail@exemplo.com"**:
 
 Comandos básicos
 - **git init**:                # Inicializa um novo repositório
