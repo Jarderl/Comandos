@@ -48,7 +48,7 @@ Para instalar o Git:
 
 - 
 ##  Recursos adicionais
-- **Documentação oficial do Git**:
-- **GitHub Docs**:
+- **[Documentação oficial do Git](https://git-scm.com/docs?utm_source=copilot.com)**:
+- **[GitHub Docs](https://docs.github.com/pt?utm_source=copilot.com)**:
 
 
