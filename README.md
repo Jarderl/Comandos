@@ -45,6 +45,7 @@ Para instalar o Git:
 ##  Remotes
 - **git remote add origin https://github.com/usuario/repositorio.git**:
 - **git push -u origin main**:
+- **git commit -m "sua mensagem aqui"**:
 - **git pull origin main**:
 
 ## Principais formas de baixar
